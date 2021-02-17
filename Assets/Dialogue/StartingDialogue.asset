@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: StartingDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  npcID: 0
+  npcName: Claire
+  messages:
+  - text: Hello, how are you?
+    responses: []
+  - text: ...Are you there?
+    responses:
+    - next: 1
+      reply: Hi :)
+      prereq: 
+      trigger: 
+    - next: 2
+      reply: ...
+      prereq: 
+      trigger: 
+  - text: Hi :) I'm getting married
+    responses:
+    - next: 2
+      reply: Oh wow you're getting married!
+      prereq: 
+      trigger: 
+  - text: ... Well once you've seen this you'll know I'm GETTING MARRIED
+    responses:
+    - next: 0
+      reply: ...
+      prereq: 
+      trigger: 
+    - next: 1
+      reply: Oh wow you're getting married!
+      prereq: 
+      trigger: 
+  - text: Yes, Joe proposed to me uwu
+    responses:
+    - next: -1
+      reply: cool
+      prereq: 
+      trigger: 
+    - next: -1
+      reply: Congratulations on your proposal
+      prereq: 
+      trigger: 
