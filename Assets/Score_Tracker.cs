@@ -4,19 +4,29 @@ using UnityEngine;
 
 public class Score_Tracker : MonoBehaviour
 {
-    public int score, strikes;
+    public int romantic, friendly, sexual, strikes;
 
-    public void changeScore(int x)
+    public void romanticScore(int x)
     {
-        score += x;
+        romantic += x;
     }
-    public void takeStrike()
+    public void friendlyScore(int x)
     {
+        friendly += x;
+    }
 
+    public void sexualScore(int x)
+    {
+        sexual += x;
+        takeStrike(x);
+    }
+    public void takeStrike(int x)
+    {
+        strikes += x;
     }
     void Update()
     {
-        if (score >=3)
+        if (strikes >=3)
         {
             gameOver();
         }
