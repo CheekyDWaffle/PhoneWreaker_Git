@@ -12,7 +12,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../UnityCommonScripts/GithubStuff/xNode-1.8.0/Scripts/SceneGraph.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/TextHandler.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613558232144</updated>
-      <workItem from="1613558248656" duration="3094000" />
+      <workItem from="1613558248656" duration="3746000" />
     </task>
     <servers />
   </component>
