@@ -9,9 +9,9 @@
         <e p="Dialogue" t="Include">
           <e p="DialogeScripts" t="Include">
             <e p="CreateNewDialogue.cs" t="Include" />
-            <e p="Dialogue.cs" t="Include" />
             <e p="Message.cs" t="Include" />
             <e p="Response.cs" t="Include" />
+            <e p="ScriptableDialogue.cs" t="Include" />
           </e>
         </e>
         <e p="Score_Tracker.cs" t="Include" />

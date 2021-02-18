@@ -12,6 +12,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../UnityCommonScripts/GithubStuff/xNode-1.8.0/Scripts/SceneGraph.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UnityCommonScripts/Systems/UI/Dialogue/Brackeys Solution/DialogueManager.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,8 +24,16 @@
         <option value="$PROJECT_DIR$/Assets/Dialogue/Response.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Dialogue.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/TextHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/CreateNewDialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Brackeys Example/DialogueManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/PhoneScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Brackeys Example/DialogueTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Brackeys Example/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Brackeys Example/DialogManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Dialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/ScriptableDialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/CreateNewDialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Message.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/DialogeScripts/Response.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613558232144</updated>
       <workItem from="1613558248656" duration="3746000" />
-      <workItem from="1613647396615" duration="77000" />
+      <workItem from="1613647396615" duration="6021000" />
     </task>
     <servers />
   </component>
