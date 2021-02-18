@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Dialogue" t="Include">
           <e p="DialogeScripts" t="Include">
+            <e p="CreateNewDialogue.cs" t="Include" />
             <e p="Dialogue.cs" t="Include" />
             <e p="Message.cs" t="Include" />
             <e p="Response.cs" t="Include" />

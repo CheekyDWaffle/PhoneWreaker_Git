@@ -7,10 +7,7 @@ using UnityEngine;
         public int npcID;
         public string npcName;
         public Message[] messages;
-        
-        
     }
-[CreateAssetMenu(fileName = "New Dialogue", menuName ="Dialogue/New Dialogue")]
-public class DialogueData : Dialogue { }
+
     
 
