@@ -13,7 +13,11 @@ MonoBehaviour:
   m_Name: Selected 3
   m_EditorClassIdentifier: 
   npcID: 1
-  npcName: Banger
+  npcName: Banger 3
   messages:
-  - text: okay, calm down nympho
-    responses: []
+  - text: ...
+    responses:
+    - minusOneForExit: -1
+      reply: ...
+      nextDialogue: {fileID: 0}
+      trigger: 

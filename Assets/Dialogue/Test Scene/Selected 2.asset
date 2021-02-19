@@ -13,7 +13,11 @@ MonoBehaviour:
   m_Name: Selected 2
   m_EditorClassIdentifier: 
   npcID: 1
-  npcName: Banger
+  npcName: Banger 2
   messages:
-  - text: Umm... I'm good hbu?
-    responses: []
+  - text: ...
+    responses:
+    - minusOneForExit: -1
+      reply: ...
+      nextDialogue: {fileID: 0}
+      trigger: 
